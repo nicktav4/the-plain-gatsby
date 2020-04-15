@@ -46,8 +46,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `past-complex`,
-        short_name: `past-complex`,
+        name: `the-plain-gatsby-starter`,
+        short_name: `the-plain-gatsby`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
