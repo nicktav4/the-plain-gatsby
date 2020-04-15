@@ -3,9 +3,9 @@ title: Television Rules the Nation / Crescendolls
 date: 2020-04-15
 ---
 
-Hello, beautiful nerds.
+Hello beautiful nerds.
 
-That's how Roman Mars of podcast '99 Percent Invisible' defines who is and who is not his audience. Of course, it's no small tribe. If you have any passion, interest, or curiosity then you're one of us. We, the reality show connoisseurs and coding dweebs, hip hop nerds and political geeks, video game dorks and baseball mathletes--share some cultural education that offers up an ever-changing internal syllabus. So, unless you are boring as heck, you too are some magnificent nerd, and I hope you practice your love shamelessly. 
+That's how Roman Mars of podcast '99 Percent Invisible' greets his audience. Of course, it's no small tribe. If you have any passion, interest, or curiosity then you're one of us. We, the reality show connoisseurs and coding dweebs, hip hop nerds and political geeks, video game dorks and baseball mathletes, share some cultural education that offers up an ever-changing internal syllabus. So, unless you are boring as heck, you too are some magnificent nerd, and I hope you practice your love shamelessly. 
 
 Since we're all nerds here, let's talk about one of the most diverse, deep, and nuanced areas of nerd worship: anime.
 
@@ -21,3 +21,6 @@ So, whatever you fancy, don't let pastimes merely pass time. Be a student, dig d
 
 > ...find what you love and let it kill you...for all things will kill you, both slowly and fastly, but it's much better to be killed by a lover. --Charles Bukowski
 
+### YouTube Embedded Iframe
+
+<iframe width="771" height="434" src="https://www.youtube.com/embed/Hg3G1E2tNCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
