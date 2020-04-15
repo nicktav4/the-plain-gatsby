@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum
+title: Lorem-Ipsum
 date: 2015-09-06
 ---
 
