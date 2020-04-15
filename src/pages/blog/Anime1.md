@@ -1,6 +1,6 @@
 ---
 title: Television Rules the Nation / Crescendolls
-date: 2020-4-15
+date: 2020-04-15
 ---
 
 Hello, beautiful nerds.
