@@ -17,10 +17,10 @@ In the time that followed, with the benefit of modern technology, I watched show
 
 So, whatever you fancy, don't let pastimes merely pass time. Be a student, dig deep, connect, and let yourself feel something. Maybe, together, we can learn from the art in this precious and wild world.
 
-> There is actually no such thing as atheism. There is no such thing as not worshipping. -- David Foster Wallace
+> There is actually no such thing as atheism. There is no such thing as not worshipping. 
+> David Foster Wallace
 
-> ...find what you love and let it kill you...for all things will kill you, both slowly and fastly, but it's much better to be killed by a lover. --Charles Bukowski
-
-### YouTube Embedded Iframe
+> ...find what you love and let it kill you...for all things will kill you, both slowly and fastly, but it's much better to be killed by a lover.
+> Charles Bukowski
 
 <iframe width="771" height="434" src="https://www.youtube.com/embed/Hg3G1E2tNCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
