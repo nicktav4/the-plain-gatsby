@@ -20,3 +20,9 @@ So, whatever you fancy, don't let pastimes merely pass time. Be a student, dig d
 > There is actually no such thing as atheism. There is no such thing as not worshipping. -- David Foster Wallace
 
 > ...find what you love and let it kill you...for all things will kill you, both slowly and fastly, but it's much better to be killed by a lover. --Charles Bukowski
+
+<div class="divider"></div>
+
+### YouTube Embedded Iframe
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Hg3G1E2tNCA" frameborder="0" allowfullscreen></iframe>
