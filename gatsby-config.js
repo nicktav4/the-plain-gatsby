@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `The Plain Gatsby`,
-    description: `A simple minimalist starter for your personal blog.`,
-    author: `@wangonya`,
-    avatar: `https://avatars0.githubusercontent.com/u/19375569?s=460&v=4`,
-    siteUrl: `https://the-plain-gatsby.netlify.com`,
+    title: `Past Complex`,
+    description: `I would not give a fig for the simplicity this side of complexity, but I would give my life for the simplicity on the other side of complexity.`,
+    author: `@ntaverna`,
+    avatar: `https://avatars0.githubusercontent.com/u/58477973?s=400&u=052378c10ccc47b926d3086c89e81ab31bdb4430&v=4`,
+    siteUrl: `https://pastcomplex.com`,
   },
   plugins: [
     {
