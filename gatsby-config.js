@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Past Complex`,
-    description: `I would not give a fig for the simplicity this side of complexity, but I would give my life for the simplicity on the other side of complexity.`,
+    description: `Nicholas Taverna's blog.`,
     author: `@ntaverna`,
     avatar: `https://avatars0.githubusercontent.com/u/58477973?s=400&u=052378c10ccc47b926d3086c89e81ab31bdb4430&v=4`,
     siteUrl: `https://pastcomplex.com`,
